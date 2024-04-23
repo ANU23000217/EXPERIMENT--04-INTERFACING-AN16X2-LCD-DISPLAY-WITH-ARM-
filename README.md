@@ -125,11 +125,11 @@ Jump to second line, position 2
 
 3. select the target to be programmed  as shown below and click on next 
 
-4.select the program name 
+4. select the program name 
 
 5. corresponding ioc file will be generated automatically 
 
-6.click on cntrl+S , automaticall C program will be generated 
+6. click on cntrl+S , automaticall C program will be generated 
 
 7. edit the program and as per required 
 
